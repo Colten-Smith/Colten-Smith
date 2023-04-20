@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hi! My name is Colten Smith (He/Him), and I'm a new student studying .NET software development at TechElevator Pittsburgh. Currently I am working through my assigned prework and specifically trying to wrap my head around using Git and Github. If you need to get in contact with me you can find me at "coltensmith220119@gmail.com", or contact me through my class's Slack server, if you are a member.
 <!--
 **Colten-Smith/Colten-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
